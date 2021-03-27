@@ -1,2 +1,2 @@
 # zeus first pcb
- My first keyboard pcb!
+ My very first keyboard pcb!
